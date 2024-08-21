@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Fraser Lab News</title>
+  <link href="http://localhost:4000"/>
+  <link type="application/atom+xml" rel="self" href="http://localhost:4000/news.xml"/>
+  <updated>2024-08-14T13:41:47-04:00</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>James Fraser</name>
+    <!-- <email>you@example.com</email> -->
+  </author>
+
+  
+  <entry>
+    <id>http://localhost:4000/2024/08/01/NewLab</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2024/08/01/NewLab/"/>
+    <title>The lab will launch in July 2025!</title>
+    <published>2024-08-01T00:00:00-04:00</published>
+    <updated>2024-08-01T00:00:00-04:00</updated>
+    <author>
+      <name>Kate Nussenbaum</name>
+      <uri>/2024/08/01/NewLab/</uri>
+    </author>
+    <content type="html">&lt;p&gt;The Computation, Learning, &amp;amp; Development Lab will launch within Boston University in July 2025!
+We are recruiting new members at all levels. Please see the &lt;a href=&quot;/join/&quot;&gt;‘join’&lt;/a&gt; page for information about opportunities in the lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/img/news/bu.jpeg&quot; alt=&quot;BU campus&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+ 
+</feed>

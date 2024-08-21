@@ -1,0 +1,16 @@
+{% include header.html %}
+
+<div class="container px-2 max-width: 100%">
+    <!-- <img class="img-fluid mx-auto d-block" src="/lab/static/img/logo/CCNL_logo.jpeg" alt="UCI CCNL logo"> -->
+    <div class="row">
+        <div class="col-sm-8">
+    	    <div style="border-style:solid !important" class="jumbotron h-100">
+        	    {{ content }}
+            </div>
+        </div>
+        <div class="col">
+            {% include sidebar.html %}
+        </div>
+    </div>
+</div>
+{% include footer.html %}

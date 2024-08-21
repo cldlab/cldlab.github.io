@@ -1,0 +1,49 @@
+name: "Computation, Learning, & Development Lab"
+description: "This is the web page for the CoLD Lab at Boston University."
+
+url: "http://katenuss.com/lab/"
+
+# Google Analytics
+#google_analytics:
+
+paginate: 5
+plugins: [jekyll-paginate]
+paginate_path: "/news/page:num"
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+
+collections:
+        affiliates:
+                output: false
+        members:
+                output: true
+        publications:
+                output: true
+        reviews:
+                output: true
+        alumni:
+                output: false
+        sep:
+                output: true
+        visitors:
+                output: false
+        undergrads:
+                output: false
+        pets:
+                output: false
+

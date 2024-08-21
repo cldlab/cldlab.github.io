@@ -1,0 +1,43 @@
+- name: home
+  link: "/lab/"
+  group: home
+
+- name: news
+  link: "/lab/news"
+  group: news
+
+- name: research
+  link: "/lab/research"
+  group: research
+
+- name: publications
+  link: "/lab/publications"
+  group: publications
+
+# - name: reviews
+#   link: "/lab/reviews"
+#   group: reviews
+
+- name: members
+  link: "/lab/members"
+  group: members
+
+# - name: teaching
+#   link: "/lab/courses"
+#   group: courses
+
+- name: join
+  link: "/lab/join"
+  group: join
+
+- name: philosophy
+  link: "/lab/compact"
+  group: compact
+
+- name: contact
+  link: "/lab/contact"
+  group: contact
+
+# - name: private
+#   link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
+#   group: private
