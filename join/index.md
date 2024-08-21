@@ -26,7 +26,7 @@ Prospective students can apply to join the lab through the ['Brain, Behavior, an
 I expect that entering Ph.D. students will begin their program with strong enthusiasm about conducting developmental studies and working together to build an innovative research agenda for ~5 years. Competitive applicants will likely have:
 * experience working in a psychology or neuroscience research lab.
 * intrinsic motivation, ambition, creativity, and persistence in tackling difficult intellectual challenges.
-* a strong interest in developmental cognitive neuroscience / developmental computational cognitive science, with particular excitement about the lab’s core questions about the development of adaptive learning, memory, and exploration processes (see above, as well as [publications](/lab/publications)).
+* a strong interest in developmental cognitive neuroscience / developmental computational cognitive science, with particular excitement about the lab’s core questions about the development of adaptive learning, memory, and exploration processes (see above, as well as [publications](/publications)).
 
 Please [reach out](mailto:katenuss@gmail.com) if this sounds like you!  I am happy to answer any questions you have. 
  

@@ -2,8 +2,8 @@
 name: Kate Nussenbaum
 startdate: 2025-07-01
 enddate:
-image: /lab/static/img/members/kate.jpeg #365 x 365 pixels, 72 dpi, JPG
-altimage: /lab/static/img/members/kate.jpeg #365 x 365 pixels, 72 dpi, JPG
+image: /static/img/members/kate.jpeg #365 x 365 pixels, 72 dpi, JPG
+altimage: /static/img/members/kate.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: Incoming Assistant Professor
 subsequent:
 pronouns: she/her
