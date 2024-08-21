@@ -23,7 +23,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Contact  </h4>
-  email: katenuss (at) gmail.com <br>
+  Lab email: bucoldlab (at) gmail.com <br>
 
  </div>
 
