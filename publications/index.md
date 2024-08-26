@@ -16,17 +16,18 @@ group: publications
 
 Nussenbaum, K. & Hartley, C.A. Reinforcement learning increasingly shapes memory specificity from childhood to adulthood. [preprint.](https://osf.io/preprints/psyarxiv/utsxn) [data & code.](https://osf.io/8yjvr/) 
 
-Jach. H., et al. Curiosity in cognitive science and personality psychology: Individual differences in information demand have a low dimensional structure that is predicted by personality traits. [preprint.](https://psyarxiv.com/aj3rp/)
-
-Nussenbaum, K. & Hartley, C.A. (in press). Meta-learned models as tools to test theories of cognitive development (Commentary on Binz et al.). *Behavioral and Brain Sciences.* [preprint.](https://osf.io/preprints/psyarxiv/zbkfq)
-
 <br>
 
 
 ----
 ## Journal Articles
 ----
-#### 2024
+
+#### 2024 and in press
+
+Jach. H., et al. (in press). Curiosity in cognitive science and personality psychology: Individual differences in information demand have a low dimensional structure that is predicted by personality traits. *Proceedings of the National Academy of Sciences.* [preprint.](https://psyarxiv.com/aj3rp/)
+
+Nussenbaum, K. & Hartley, C.A. (in press). Meta-learned models as tools to test theories of cognitive development (Commentary on Binz et al.). *Behavioral and Brain Sciences.* [preprint.](https://osf.io/preprints/psyarxiv/zbkfq)
 
 Nussenbaum, K.\*, Katzman, P.L.\*, Lu, H., Zorowitz, S. & Hartley, C.A. (2024). Sensitivity to the instrumental value of choice increases across development. *Psychological Science.* [pdf.](/static/data/Nussenbaum_2024_PsychSci.pdf) [data & code.](https://osf.io/69rs8/) 
 
