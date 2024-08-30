@@ -18,7 +18,6 @@ Nussenbaum, K. & Hartley, C.A. Reinforcement learning increasingly shapes memory
 
 <br>
 
-
 ----
 ## Journal Articles
 ----
