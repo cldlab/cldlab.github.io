@@ -6,7 +6,7 @@ group: home
 # Welcome to the Computation, Learning, & Development Lab!
 {: .display-4}
 <br>
-We anticipate launching in Boston University's [Department of Psychological and Brain Sciences](https://www.bu.edu/psych/) in July 2025.
+We will launch in Boston University's [Department of Psychological and Brain Sciences](https://www.bu.edu/psych/) in July 2025.
 {: .welcomefont}
 
 Research in the lab will focus on understanding developmental changes in value-guided learning, memory, and exploration from childhood to early adulthood.
