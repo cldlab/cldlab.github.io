@@ -48,7 +48,7 @@ Desired qualifications include:
 * a bachelor’s degree in psychology, neuroscience, computer science, or a related field.
 * strong organizational and time management skills.
 * experience conducting research in a psychology or neuroscience lab.
-* an interest in the development of learning, memory, and decision-making
+* an interest in the development of learning, memory, and decision-making.
 * knowledge of at least one programming language (e.g., R, python, julia, Matlab), or a commitment to learning to code.
 * an interest in quantitative methodologies, including computational cognitive modeling and neuroimaging analyses (note: experience with these methods is not expected).
 
