@@ -26,7 +26,7 @@ Nussenbaum, K. & Hartley, C.A. Reinforcement learning increasingly shapes memory
 
 Jach. H., et al. (in press). Curiosity in cognitive science and personality psychology: Individual differences in information demand have a low dimensional structure that is predicted by personality traits. *Proceedings of the National Academy of Sciences.* [preprint.](https://psyarxiv.com/aj3rp/)
 
-Nussenbaum, K. & Hartley, C.A. (in press). Meta-learned models as tools to test theories of cognitive development (Commentary on Binz et al.). *Behavioral and Brain Sciences.* [preprint.](https://osf.io/preprints/psyarxiv/zbkfq)
+Nussenbaum, K. & Hartley, C.A. (2024). Meta-learned models as tools to test theories of cognitive development (Commentary on Binz et al.). *Behavioral and Brain Sciences.* [link.](https://doi.org/10.1017/S0140525X24000281)
 
 Nussenbaum, K.\*, Katzman, P.L.\*, Lu, H., Zorowitz, S. & Hartley, C.A. (2024). Sensitivity to the instrumental value of choice increases across development. *Psychological Science.* [pdf.](/static/data/Nussenbaum_2024_PsychSci.pdf) [data & code.](https://osf.io/69rs8/) 
 
