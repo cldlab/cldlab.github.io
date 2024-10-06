@@ -13,7 +13,8 @@ website: "https://www.katenuss.com/"
 mastodon: #
 twitter: katenuss
 linkedin: #angelikaarada
-github: #katenuss
+github: katenuss
+cv: /static/data/Nussenbaum_CV.pdf
 orcid: #0000-0002-7185-6880
 description: "Kate is an incoming Assistant Professor in the Department of Psychological and Brain Sciences at Boston University. She is interested in understanding how learning, memory, and decision-making systems change and shape adaptive behavior across development.
 
