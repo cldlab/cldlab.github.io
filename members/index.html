@@ -29,7 +29,8 @@ group: members
                 {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
                 <em>{{member.email}}</em> <br>
                 {% if member.website %}
-                  <a style="overflow-wrap: break-word;" href= "{{member.website}}">personal website</a> <br>
+                <a href= "{{member.website}}"><img class="inline-block mem-icon" src="/static/img/logo/website_icon.png"></a>
+                <a style="overflow-wrap: break-word;" href= "{{member.website}}">personal website</a> <br>
                 {% endif %}
                 {% if member.cv %}
                 <a href= "{{member.cv}}"><img class="inline-block mem-icon" src="/static/img/logo/cv_icon.png"></a>
