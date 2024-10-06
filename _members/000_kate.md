@@ -9,7 +9,7 @@ subsequent:
 pronouns: she/her
 email:  katenuss@gmail.com
 scholar: https://scholar.google.com/citations?user=_iBTotQAAAAJ&hl=en
-website: "www.katenuss.com"
+website: "https://www.katenuss.com"
 mastodon: #
 twitter: katenuss
 linkedin: #angelikaarada
