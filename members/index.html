@@ -32,7 +32,7 @@ group: members
                   <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
                 {% endif %}
                 {% if member.cv %}
-                <a><img class="inline-block mem-icon" src="/static/img/logo/cv_icon.jpg"></a>
+                <a href= "{{member.cv}}"><img class="inline-block mem-icon" src="/static/img/logo/cv_icon.png"></a>
                 <a style="overflow-wrap: break-word;" href= "{{member.cv}}">CV</a> <br>
                 {% endif %}
                 {% if member.orcid %}
