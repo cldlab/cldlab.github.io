@@ -30,35 +30,35 @@ group: members
                 <em>{{member.email}}</em> <br>
                 {% if member.website %}
                 <a href= "{{member.website}}"><img class="inline-block mem-icon" src="/static/img/logo/website_icon.png"></a>
-                <a style="overflow-wrap: break-word;" href= "{{member.website}}">personal website</a> <br>
+              <!-- <a style="overflow-wrap: break-word;" href= "{{member.website}}">personal website</a> <br> -->
                 {% endif %}
                 {% if member.cv %}
                 <a href= "{{member.cv}}"><img class="inline-block mem-icon" src="/static/img/logo/cv_icon.png"></a>
-                <a style="overflow-wrap: break-word;" href= "{{member.cv}}">cv</a> <br>
+              <!-- <a style="overflow-wrap: break-word;" href= "{{member.cv}}">cv</a> <br> -->
                 {% endif %}
                 {% if member.orcid %}
-                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.png"></a>
-                  <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
+                  <a href="http://orcid.org/{{member.orcid}}"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.png"></a>
+              <!-- <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br> -->
                 {% endif %}
                 {% if member.linkedin %}
-                  <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
-                  <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
+                  <a href="http://www.linkedin.com/in/{{member.linkedin}}"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
+              <!-- <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br> -->
                 {% endif %}
                 {% if member.scholar %}
-                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
-                  <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> google scholar </a> <br>
+                  <a href="http://scholar.google.com/citations?user={{member.scholar}}"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+              <!-- <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> google scholar </a> <br> -->
                 {% endif %}
                 {% if member.mastodon %}
-                  <a href="https://mastodon.social/"><img class="inline-block mem-icon" src="/static/img/logo/mastodon_logo.svg"></a>
-                  <a href="https://mastodon.social/{{member.mastodon}}"> @{{member.mastodon}} </a> <br>
+                  <a href="https://mastodon.social/{{member.mastodon}}"><img class="inline-block mem-icon" src="/static/img/logo/mastodon_logo.svg"></a>
+              <!-- <a href="https://mastodon.social/{{member.mastodon}}"> @{{member.mastodon}} </a> <br> -->
                 {% endif %}
                 {% if member.bluesky %}
-                  <a href="http://bsky.app/"><img class="inline-block mem-icon" src="/static/img/logo/bsky_logo.png"></a>
-                  <a href= "http://bsky.app/{{member.bluesky}}"> @{{member.bluesky}} </a> <br>
+                  <a href="http://bsky.app/{{member.bluesky}}"><img class="inline-block mem-icon" src="/static/img/logo/bsky_logo.png"></a>
+              <!-- <a href= "http://bsky.app/{{member.bluesky}}"> @{{member.bluesky}} </a> <br> -->
                 {% endif %}
                 {% if member.github %}
-                  <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
-                  <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
+                  <a href="http://github.com/{{member.github}}"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
+              <!-- <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br> -->
                 {% endif %}
             </div>
             <div class="col-sm-8">
