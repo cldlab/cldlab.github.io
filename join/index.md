@@ -36,7 +36,7 @@ Please [reach out](mailto:katenuss@gmail.com) with a description of your interes
 
 ----
 ### Lab manager 
-I will be hiring a full-time lab manager to start alongside me, in July 2025. The lab manager will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D. 
+I will be hiring a full-time Research Technician (lab manager) to start alongside me, in July 2025. The lab manager will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D. 
 
 Responsibilities will include:
 * helping to establish a fun, inclusive, and productive research environment. 
@@ -44,15 +44,19 @@ Responsibilities will include:
 * designing and conducting online, eye-tracking, and fMRI experiments with human participants, including children and adolescents.
 * analyzing data and preparing findings for presentation and publication.
 
-Desired qualifications include:
+Required qualifications:
 * a bachelor’s degree in psychology, neuroscience, computer science, or a related field.
-* strong organizational and time management skills.
-* experience conducting research in a psychology or neuroscience lab.
-* an interest in the development of learning, memory, and decision-making.
-* knowledge of at least one programming language (e.g., R, python, julia, Matlab), or a commitment to learning to code.
-* an interest in quantitative methodologies, including computational cognitive modeling and neuroimaging analyses (note: experience with these methods is not expected).
+* previous research experience.
 
-I will likely have an official job ad posted in January or February 2025, but if you are interested, please reach out with your CV and a description of your research interests.
+Desired qualifications:
+* strong organizational and time management skills.
+* experience conducting empirical research in a psychology or neuroscience lab.
+* knowledge of at least one programming language (e.g., R, python, julia, Matlab), or a commitment to learning to code.
+* an interest in the development of learning, memory, and decision-making.
+* an interest in quantitative methodologies, including computational cognitive modeling and neuroimaging analyses (note: experience with these methods is not expected).
+* experience with or an interest in working with children and adolescents.
+
+I will likely have an official job ad posted in December 2024 or January 2025, but if you are interested, please [email me](mailto:katenuss@gmail.com) with a description of your research interests, your CV, unofficial transcript, and contact information for two or more references.
 
 <br>
 
