@@ -35,10 +35,10 @@ Please [reach out](mailto:katenuss@gmail.com) with a description of your interes
 <br>
 
 ----
-### Lab manager 
-I will be hiring a full-time Research Technician (lab manager) to start alongside me, in July 2025. The lab manager will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D. 
+### Research technician / Lab manager 
+I am hiring a full-time Research Technician (lab manager) to start alongside me, in July 2025. The lab manager will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D. 
 
-Responsibilities will include:
+Specific responsibilities will include:
 * helping to establish a fun, inclusive, and productive research environment. 
 * administering the day-to-day functioning of the lab, which will involve spearheading participant recruitment, managing IRB protocols, and training new lab members.
 * designing and conducting online, eye-tracking, and fMRI experiments with human participants, including children and adolescents.
@@ -48,7 +48,7 @@ Required qualifications:
 * a bachelor’s degree in psychology, neuroscience, computer science, or a related field.
 * previous research experience.
 
-Desired qualifications:
+Preferred qualifications:
 * strong organizational and time management skills.
 * experience conducting empirical research in a psychology or neuroscience lab.
 * knowledge of at least one programming language (e.g., R, python, julia, Matlab), or a commitment to learning to code.
@@ -56,7 +56,19 @@ Desired qualifications:
 * an interest in quantitative methodologies, including computational cognitive modeling and neuroimaging analyses (note: experience with these methods is not expected).
 * experience with or an interest in working with children and adolescents.
 
-I will likely have an official job ad posted in December 2024 or January 2025, but if you are interested, please [email me](mailto:katenuss@gmail.com) with a description of your research interests, your CV, unofficial transcript, and contact information for two or more references.
+Salary will be based on Boston University’s salary scales. 
+
+*Please note: The Research Technician will be required to work in person in the lab in Boston, and unfortunately, visa sponsorship for this position is not possible.*
+
+Applications will be reviewed on a rolling basis and the position will remain open until filled. Applicants who apply by December 20, 2024 are assured full consideration. 
+
+To apply, please [email me, Kate Nussenbaum,](mailto:katenuss@gmail.com) the following: 
+1.	Cover letter stating your research interests, future goals, and why you want to join the lab.
+2.	CV or resume.
+3.	Undergraduate transcript (unofficial is fine).
+4.	Contact information for 2 or more references.
+
+Please include “Research Technician Application” in the subject line of your email.
 
 <br>
 
