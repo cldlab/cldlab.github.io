@@ -15,4 +15,6 @@ To apply, please [Kate Nussenbaum](mailto:katenuss@gmail.com) the following:
 3.	Undergraduate transcript (unofficial is fine).
 4.	Contact information for 2 or more references.
 
+Please include "Research Technician Application" in the subject line of your email.
+
 Applications will be reviewed on a rolling basis and the position will remain open until filled. Applicants who apply by December 20, 2024 are assured full consideration. 
