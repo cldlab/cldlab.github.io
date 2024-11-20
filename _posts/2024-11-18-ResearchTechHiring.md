@@ -9,8 +9,8 @@ The lab is seeking a full-time Research Technician/ Lab Manager to start in summ
 
 Please see the [join](/join/) page for more information about the position and application process.
 
-To apply, please [Kate Nussenbaum](mailto:katenuss@gmail.com) the following: 
-1.	Cover letter stating your research interests, future goals, and why you want to join the lab.
+To apply, please email [Kate Nussenbaum](mailto:katenuss@gmail.com) the following: 
+1.	Cover letter stating your research interests and why you want to join the lab, and highlighting your relevant experiences.
 2.	CV or resume.
 3.	Undergraduate transcript (unofficial is fine).
 4.	Contact information for 2 or more references.

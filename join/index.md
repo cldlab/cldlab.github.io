@@ -37,7 +37,7 @@ Salary will be based on Boston University’s salary scales.
 Applications will be reviewed on a rolling basis and the position will remain open until filled. Applicants who apply by December 20, 2024 are assured full consideration. 
 
 To apply, please [email me, Kate Nussenbaum,](mailto:katenuss@gmail.com) the following: 
-1.	Cover letter stating your research interests, future goals, and why you want to join the lab.
+1.	Cover letter stating your research interests and why you want to join the lab, and highlighting your relevant experiences.
 2.	CV or resume.
 3.	Undergraduate transcript (unofficial is fine).
 4.	Contact information for 2 or more references.
