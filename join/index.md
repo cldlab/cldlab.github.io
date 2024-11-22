@@ -25,7 +25,7 @@ Required qualifications:
 Preferred qualifications:
 * strong organizational and time management skills.
 * experience conducting empirical research in a psychology or neuroscience lab.
-* knowledge of at least one programming language (e.g., R, python, julia, Matlab), or a commitment to learning to code.
+* knowledge of at least one programming language (e.g., R, python, julia, Matlab).
 * an interest in the development of learning, memory, and decision-making.
 * an interest in quantitative methodologies, including computational cognitive modeling and neuroimaging analyses (note: experience with these methods is not expected).
 * experience with or an interest in working with children and adolescents.

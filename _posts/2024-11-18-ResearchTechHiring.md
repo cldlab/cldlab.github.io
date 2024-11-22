@@ -17,4 +17,4 @@ To apply, please email [Kate Nussenbaum](mailto:katenuss@gmail.com) the followin
 
 Please include "Research Technician Application" in the subject line of your email.
 
-Applications will be reviewed on a rolling basis and the position will remain open until filled. Applicants who apply by December 20, 2024 are assured full consideration. 
+Applications will be reviewed on a rolling basis and the position will remain open until filled. Applicants who apply by December 20, 2024 are assured full consideration. Please note: The Research Technician will be required to work in person in the lab in Boston, and unfortunately, visa sponsorship for this position is not possible.
