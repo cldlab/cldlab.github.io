@@ -51,8 +51,7 @@ Please include “Research Technician Application” in the subject line of your
 ### Ph.D. students
 *The application deadline for students planning to begin their Ph.D. in September 2025 has now passed, and applications are currently under review.* 
 
-<!---
-[Prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program in the Department of Psychological & Brain Sciences. It may also be possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. Students are allowed to apply to both programs, but doing so requires paying the application fee twice. For those who are primarily interested in my lab, I recommend applying through the BBC program in the psychology department, and emailing me after you apply to ensure I read your application. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
+In future years, prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program in the Department of Psychological & Brain Sciences. It may also be possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. Students are allowed to apply to both programs, but doing so requires paying the application fee twice. For those who are primarily interested in my lab, I recommend applying through the BBC program in the psychology department. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
 
 I expect that entering Ph.D. students will begin their program with strong enthusiasm about conducting developmental studies and working together to build an innovative research agenda for ~5 years. Competitive applicants will likely have:
 * experience working in a psychology or neuroscience research lab.
@@ -61,9 +60,9 @@ I expect that entering Ph.D. students will begin their program with strong enthu
 
 In general, research in the lab will be both developmental and computational. Because of this, students will be expected to have an interest in some aspect of development and a desire to learn computational methods (e.g., developing and fitting cognitive models; analyzing neuroimaging data). However, I view the Ph.D. as the opportune time for learning. You do not need to have any specific quantitative skills and you do not need to have experience conducting developmental research to be a competitive applicant to the lab. 
 
-Please [reach out](mailto:katenuss@gmail.com) with a description of your interests if this sounds like you! I am happy to answer any questions you have. 
+<!-- Please [reach out](mailto:katenuss@gmail.com) with a description of your interests if this sounds like you! I am happy to answer any questions you have. 
 
-*Please note: I cannot accept students through the clinical program. The lab is NOT a good fit for students whose primary interests are clinical.*]: # -->
+*Please note: I cannot accept students through the clinical program. The lab is NOT a good fit for students whose primary interests are clinical.* -->
  
 <br>
 
