@@ -10,6 +10,8 @@ group: join
 <br> 
 
 ### Research technician / Lab manager 
+*Applicants to this position who applied by December 20 can expect an update by the end of January.* 
+
 I am hiring a full-time Research Technician (lab manager) to start alongside me, in July 2025. The lab manager will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D. 
 
 Specific responsibilities will include:
