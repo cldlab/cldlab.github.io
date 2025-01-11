@@ -18,6 +18,8 @@ If you have shared research interests and would like to discuss a potential posi
 ### Undergraduates
 I look forward to working with BU undergraduates beginning in September 2025. If you are a current student at BU interested in joining the lab, feel free to reach out to stay up-to-date about research opportunities. I do not anticipate having openings for non-BU undergraduates during the 2025 - 2026 academic year.
 
+<br>
+
 ----
 ### Research technician / Lab manager 
  *I am no longer reviewing applications for this role.* 
@@ -59,6 +61,9 @@ Please include “Research Technician Application” in the subject line of your
 <br> 
 
 ---- -->
+
+<br>
+
 ----
 ### Ph.D. students
 *The application deadline for students planning to begin their Ph.D. in September 2025 has now passed, and applications are currently under review.* 
