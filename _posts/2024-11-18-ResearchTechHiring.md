@@ -5,7 +5,7 @@ author: Kate Nussenbaum
 layout: post
 group: news
 ---
-** Update as of 1/11/25: I am no longer reviewing applications for this role. **
+**Update as of 1/11/25: I am no longer reviewing applications for this role.**
 
 The lab is seeking a full-time Research Technician/ Lab Manager to start in summer 2025. The Research Technician will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D.
 
