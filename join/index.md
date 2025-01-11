@@ -10,9 +10,9 @@ group: join
 <br> 
 
 ### Research technician / Lab manager 
-*Applicants to this position who applied by December 20 can expect an update by the end of January.* 
+ *I am no longer reviewing applications for this role.* 
 
-I am hiring a full-time Research Technician (lab manager) to start alongside me, in July 2025. The lab manager will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D. 
+<!-- I am hiring a full-time Research Technician (lab manager) to start alongside me, in July 2025. The lab manager will be heavily involved in all phases of the research process while also helping to administer the day-to-day functioning of the lab. This position is ideal for a recent college graduate hoping to gain more research experience prior to pursuing a Ph.D. 
 
 Specific responsibilities will include:
 * helping to establish a fun, inclusive, and productive research environment. 
@@ -46,10 +46,10 @@ To apply, please [email me, Kate Nussenbaum,](mailto:katenuss@gmail.com) the fol
 
 Please include “Research Technician Application” in the subject line of your email.
 
-<br>
+<br> 
 
+---- -->
 
-----
 ### Ph.D. students
 *The application deadline for students planning to begin their Ph.D. in September 2025 has now passed, and applications are currently under review.* 
 
