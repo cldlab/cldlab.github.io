@@ -15,7 +15,7 @@ twitter: #
 linkedin: #
 bluesky: katenuss.bsky.social
 github: katenuss
-cv: /static/data/Nussenbaum_CV.pdf
+cv: /static/files/Nussenbaum_CV.pdf
 orcid: #
 description: "Kate is an incoming Assistant Professor in the Department of Psychological and Brain Sciences at Boston University. She is interested in understanding how learning, memory, and decision-making systems change and shape adaptive behavior across development.
 
