@@ -14,6 +14,8 @@ group: publications
 ## Preprints
 ----
 
+Nussenbaum, K., Kahn, A.E., Zhang, A., Daw, N.D., & Hartley, C.A. Shifts in learning dynamics drive developmental improvements in the acquisition of structured knowledge. [preprint.](https://osf.io/preprints/psyarxiv/amvth_v1) [data & code.](https://osf.io/6zwe2/)
+
 Zhang, A., Kahn, A.E., Daw, N.D., Nussenbaum, K.\* & Hartley, C.A.\* Children leverage predictive representations for flexible, value-guided choice. [preprint.](https://osf.io/preprints/psyarxiv/y3dzn) [data & code.](https://osf.io/g83rp/) 
 
 
