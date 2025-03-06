@@ -16,13 +16,16 @@ group: publications
 
 Zhang, A., Kahn, A.E., Daw, N.D., Nussenbaum, K.\* & Hartley, C.A.\* Children leverage predictive representations for flexible, value-guided choice. [preprint.](https://osf.io/preprints/psyarxiv/y3dzn) [data & code.](https://osf.io/g83rp/) 
 
-Nussenbaum, K. & Hartley, C.A. Reinforcement learning increasingly shapes memory specificity from childhood to adulthood. [preprint.](https://osf.io/preprints/psyarxiv/utsxn) [data & code.](https://osf.io/8yjvr/) 
 
 <br>
 
 ----
 ## Journal Articles
 ----
+
+#### 2025
+
+Nussenbaum, K. & Hartley, C.A. (accepted). Reinforcement learning increasingly shapes memory specificity from childhood to adulthood. *Nature Communications.* [preprint.](https://osf.io/preprints/psyarxiv/utsxn) [data & code.](https://osf.io/8yjvr/) 
 
 #### 2024
 
