@@ -24,11 +24,10 @@ Zhang, A., Kahn, A.E., Daw, N.D., Nussenbaum, K.\* & Hartley, C.A.\* Children le
 ----
 
 #### 2025
-
 Nussenbaum, K. & Hartley, C.A. (accepted). Reinforcement learning increasingly shapes memory specificity from childhood to adulthood. *Nature Communications.* [preprint.](https://osf.io/preprints/psyarxiv/utsxn) [data & code.](https://osf.io/8yjvr/) 
 
+----
 #### 2024
-
 Jach. H., et al. (2024). Curiosity in cognitive science and personality psychology: Individual differences in information demand have a low dimensional structure that is predicted by personality traits. *Proceedings of the National Academy of Sciences.* [pdf.](/static/papers/Jach_2024_PNAS.pdf) [data & code.](https://osf.io/kc9pb/)
 
 Nussenbaum, K. & Hartley, C.A. (2024). Meta-learned models as tools to test theories of cognitive development (Commentary on Binz et al.). *Behavioral and Brain Sciences.* [link to commentary.](https://doi.org/10.1017/S0140525X24000281) [target article.](/static/papers/Binz_2024_BBS.pdf)
