@@ -7,7 +7,7 @@ altimage: /static/img/members/kate.png #365 x 365 pixels, 72 dpi, JPG
 position: Incoming Assistant Professor
 subsequent:
 pronouns: she/her
-email:  katenuss@gmail.com
+email:  katenuss@bu.edu
 scholar: https://scholar.google.com/citations?user=_iBTotQAAAAJ&hl=en
 website: "https://www.katenuss.com"
 mastodon: #

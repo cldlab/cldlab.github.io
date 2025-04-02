@@ -34,11 +34,7 @@ group: contact
   Incoming Assistant Professor<br>
   [Department of Psychological and Brain Sciences](https://www.bu.edu/psych/)<br>
   Boston University <br>
-  <!-- [Center for the Neurobiology of Learning and Memory](http://cnlm.uci.edu)<br>
-  214 Pereira Dr, Social & Behavioral Sciences Gateway<br>
-  Irvine, CA 92617<br> -->
-  katenuss (at) gmail.com <br>
-  <!-- tel: (949) 824 0628 -->
+  katenuss (at) bu.edu <br>
 
 </div>
 </div>
