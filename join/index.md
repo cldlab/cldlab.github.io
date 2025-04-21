@@ -39,8 +39,8 @@ In general, research in the lab will be both developmental and computational. Be
 *Please note: I cannot accept students through the clinical program. The lab is NOT a good fit for students whose primary interests are clinical.* -->
  
 <br>
-----
 
+----
 ### Research technician / Lab manager 
  *I am no longer reviewing applications for this role.* 
 
