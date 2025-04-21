@@ -9,18 +9,38 @@ group: join
 
 <br> 
 
-### Postdoctoral researchers
-If you have shared research interests and would like to discuss a potential position, please email me. I am happy to discuss opportunities!
-
-<br>
-
-----
-### Undergraduates
+### BU Undergraduates
 I look forward to working with BU undergraduates beginning in September 2025. If you are a current student at BU interested in joining the lab, feel free to reach out to stay up-to-date about research opportunities. I do not anticipate having openings for non-BU undergraduates during the 2025 - 2026 academic year.
 
 <br>
 
 ----
+
+### Postdoctoral researchers
+I am not actively recruiting postdocs at this time. However, if you have shared research interests and would like to discuss a potential position, please email me. I am happy to discuss opportunities.
+
+<br>
+
+----
+### Ph.D. students
+*The admissions cycle for students planning to begin their Ph.D. in September 2025 has now concluded. I may review applications in the next cycle (to begin fall 2026.) Please check this page for updates.* 
+
+Prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program in the Department of Psychological & Brain Sciences. It is also be possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. Students are allowed to apply to both programs, but doing so requires paying the application fee twice. For those who are primarily interested in my lab, I recommend applying through the BBC program in the psychology department. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
+
+I expect that entering Ph.D. students will begin their program with strong enthusiasm about conducting developmental studies and working together to build an innovative research agenda for ~5 years. Competitive applicants will likely have:
+* experience working in a psychology or neuroscience research lab.
+* intrinsic motivation, ambition, creativity, and persistence in tackling difficult intellectual challenges.
+* a strong interest in developmental cognitive neuroscience / developmental computational cognitive science, with particular excitement about the lab’s core questions about the development of adaptive learning, memory, and exploration processes (see [research](/research) and [publications](/publications)).
+
+In general, research in the lab will be both developmental and computational. Because of this, students will be expected to have an interest in some aspect of development and a desire to learn computational methods (e.g., developing and fitting cognitive models; analyzing neuroimaging data). However, I view the Ph.D. as the opportune time for learning. You do not need to have any specific quantitative skills and you do not need to have experience conducting developmental research to be a competitive applicant to the lab. 
+
+<!-- Please [reach out](mailto:katenuss@gmail.com) with a description of your interests if this sounds like you! I am happy to answer any questions you have. 
+
+*Please note: I cannot accept students through the clinical program. The lab is NOT a good fit for students whose primary interests are clinical.* -->
+ 
+<br>
+----
+
 ### Research technician / Lab manager 
  *I am no longer reviewing applications for this role.* 
 
@@ -65,21 +85,5 @@ Please include “Research Technician Application” in the subject line of your
 <br>
 
 ----
-### Ph.D. students
-*The application deadline for students planning to begin their Ph.D. in September 2025 has now passed, and applications are currently under review.* 
 
-In future years, prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program in the Department of Psychological & Brain Sciences. It may also be possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. Students are allowed to apply to both programs, but doing so requires paying the application fee twice. For those who are primarily interested in my lab, I recommend applying through the BBC program in the psychology department. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
-
-I expect that entering Ph.D. students will begin their program with strong enthusiasm about conducting developmental studies and working together to build an innovative research agenda for ~5 years. Competitive applicants will likely have:
-* experience working in a psychology or neuroscience research lab.
-* intrinsic motivation, ambition, creativity, and persistence in tackling difficult intellectual challenges.
-* a strong interest in developmental cognitive neuroscience / developmental computational cognitive science, with particular excitement about the lab’s core questions about the development of adaptive learning, memory, and exploration processes (see [research](/research) and [publications](/publications)).
-
-In general, research in the lab will be both developmental and computational. Because of this, students will be expected to have an interest in some aspect of development and a desire to learn computational methods (e.g., developing and fitting cognitive models; analyzing neuroimaging data). However, I view the Ph.D. as the opportune time for learning. You do not need to have any specific quantitative skills and you do not need to have experience conducting developmental research to be a competitive applicant to the lab. 
-
-<!-- Please [reach out](mailto:katenuss@gmail.com) with a description of your interests if this sounds like you! I am happy to answer any questions you have. 
-
-*Please note: I cannot accept students through the clinical program. The lab is NOT a good fit for students whose primary interests are clinical.* -->
- 
-<br>
 
