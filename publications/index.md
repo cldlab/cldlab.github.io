@@ -26,7 +26,7 @@ Zhang, A., Kahn, A.E., Daw, N.D., Nussenbaum, K.\* & Hartley, C.A.\* Children le
 ----
 
 #### 2025
-Nussenbaum, K. & Hartley, C.A. (accepted). Reinforcement learning increasingly shapes memory specificity from childhood to adulthood. *Nature Communications.* [preprint.](https://osf.io/preprints/psyarxiv/utsxn) [data & code.](https://osf.io/8yjvr/) 
+Nussenbaum, K. & Hartley, C.A. (2025). Reinforcement learning increasingly shapes memory specificity from childhood to adulthood. *Nature Communications.* [pdf.](/static/papers/Nussenbaum_2025_NatComms.pdf) [data & code.](https://osf.io/8yjvr/) 
 
 ----
 #### 2024
