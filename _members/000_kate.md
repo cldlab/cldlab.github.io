@@ -4,7 +4,7 @@ startdate: 2025-07-01
 enddate:
 image: /static/img/members/kate.png #365 x 365 pixels, 72 dpi, JPG
 altimage: /static/img/members/kate.png #365 x 365 pixels, 72 dpi, JPG
-position: Incoming Assistant Professor
+position: Assistant Professor
 subsequent:
 pronouns: she/her
 email:  katenuss@bu.edu
@@ -17,11 +17,10 @@ bluesky: katenuss.bsky.social
 github: katenuss
 cv: /static/files/Nussenbaum_CV.pdf
 orcid: #
-description: "Kate is an incoming Assistant Professor in the Department of Psychological and Brain Sciences at Boston University. She is interested in understanding how learning, memory, and decision-making systems change and shape adaptive behavior across development.
+description: "Kate is an Assistant Professor in the Department of Psychological and Brain Sciences at Boston University. She is interested in understanding how learning, memory, and decision-making systems change and shape adaptive behavior across development.
 
-Kate is originally from the Boston area and gradually traveled down the east coast to complete her bachelor's degree at Brown University, her Ph.D. at NYU, and postdoctoral training at Princeton (with a brief stint at Oxford for her master's), before returning back to her home state to launch the lab.
+Kate received an Sc.B. in Cognitive Neuroscience from Brown University, an MSc in Experimental Psychology from the University of Oxford, and a Ph.D. in Psychology from NYU. She completed postdoctoral training at the Princeton Neuroscience Institute before returning to her home state of MA to launch the lab in 2025.  
 
-
-Outside of work, she enjoys traveling, trying new restaurants, and indiscriminately watching TV." 
+When not doing research, she enjoys traveling, trying new restaurants, and watching TV, though these days her hobbies have been supplanted by tending to a [demanding new roommate](/static/img/members/riley.jpeg)." 
 ---
 
