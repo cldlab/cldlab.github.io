@@ -7,7 +7,7 @@ group: home
 {: .display-4}
 <br>
 
-We are housed in the Department of Psychological & Brain Sciences at Boston University.
+We are housed in the [Department of Psychological & Brain Sciences](https://www.bu.edu/psych/) at Boston University.
 
 Research in the lab focuses on understanding developmental changes in value-guided learning, memory, and exploration from childhood to early adulthood.
 {: .welcomefont}

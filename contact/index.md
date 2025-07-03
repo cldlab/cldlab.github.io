@@ -31,7 +31,8 @@ group: contact
 <div class="col-md-4">
 
   <h4>Kate Nussenbaum, Ph.D.</h4>
-  Incoming Assistant Professor<br>
+   Assistant Professor<br>
+   111 Cummington Mall, Room 208 <br>
   [Department of Psychological and Brain Sciences](https://www.bu.edu/psych/)<br>
   Boston University <br>
   katenuss (at) bu.edu <br>
