@@ -1,6 +1,6 @@
 ---
 name: Ipek Obek
-startdate: 2025-8-04
+startdate: 2025-08-04
 enddate:
 image: /static/img/members/ipek.jpg #365 x 365 pixels, 72 dpi, JPG
 altimage: /static/img/members/ipek.jpg #365 x 365 pixels, 72 dpi, JPG
