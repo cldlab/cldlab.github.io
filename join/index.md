@@ -10,7 +10,7 @@ group: join
 <br> 
 
 ### BU Undergraduates
-The lab has opportunities for BU undergraduates beginning in September 2025. If you are a current student at BU interested in joining the lab, feel free to reach out to stay up-to-date about research opportunities. Unfortunately, the lab is unlikely to have openings for non-BU undergraduates during the 2025 - 2026 academic year.
+The lab has opportunities for BU undergraduates beginning in September 2025. If you are a current student at BU interested in joining the lab, feel free to [reach out](mailto:bucoldlab@gmail.com) to stay up-to-date about research opportunities. Unfortunately, the lab is unlikely to have openings for non-BU undergraduates during the 2025 - 2026 academic year.
 
 <br>
 
