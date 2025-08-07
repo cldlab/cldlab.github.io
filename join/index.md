@@ -10,7 +10,11 @@ group: join
 <br> 
 
 ### BU undergraduates and MA students
-The lab has opportunities for BU undergraduates (and potentially for MA students) beginning in September 2025. If you are a current student at BU interested in joining the lab, feel free to [reach out](mailto:bucoldlab@gmail.com) to stay up-to-date about research opportunities. Unfortunately, the lab is unlikely to have openings for non-BU undergraduates during the 2025 - 2026 academic year.
+The lab has opportunities for BU undergraduates (and potentially for MA students) beginning in September 2025. If you are a current student at BU interested in joining the lab, please fill out our [interest form](https://forms.gle/C8bUBZkPjhorWb3P9). Once you fill out the form, you can expect to hear from us within a few weeks. 
+
+In general, we will have many open lab meetings throughout the semester, which you can attend as a low-commitment way to learn about our work. If you would like to work as a research assistant, then we ask that you commit at least 10 hours per week for at least two semesters (fall, spring, summer). There are potential opportunities for BU students to join the lab as volunteers, paid RAs (if eligible for work-study), and directed study or [UROP](https://www.bu.edu/urop/) students.
+
+Unfortunately, the lab is unlikely to have openings for non-BU students during the 2025 - 2026 academic year.
 
 <br>
 
