@@ -1,19 +1,19 @@
 ---
-name: Luis Alvarez
+name: Luis R. Alvarez
 startdate: 2025-09-01
 enddate:
 image: #/static/img/members/karen.jpeg #365 x 365 pixels, 72 dpi, JPG
 altimage: #/static/img/members/karen.jpeg #365 x 365 pixels, 72 dpi, JPG
 position: PhD Student 
 subsequent:
-pronouns: #
-email:  #karencyc@bu.edu
+pronouns: he/his
+email:  lralvare@bu.edu
 scholar: #
 website: #
 mastodon: #
 twitter: #
-linkedin: #
-bluesky: #
+linkedin: https://www.linkedin.com/in/%20luis-r-alvarez-56a5111a8
+bluesky: https://bsky.app/profile/lralvare1.bsky.social
 github: #
 cv: #/static/files/Nussenbaum_CV.pdf
 orcid: #
