@@ -2,8 +2,8 @@
 name: Luis R. Alvarez
 startdate: 2025-09-01
 enddate:
-image: #/static/img/members/karen.jpeg #365 x 365 pixels, 72 dpi, JPG
-altimage: #/static/img/members/karen.jpeg #365 x 365 pixels, 72 dpi, JPG
+image: /static/img/members/luis.jpg #365 x 365 pixels, 72 dpi, JPG
+altimage: /static/img/members/luis.jpg #365 x 365 pixels, 72 dpi, JPG
 position: PhD Student 
 subsequent:
 pronouns: he/his
