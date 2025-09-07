@@ -12,7 +12,7 @@ scholar: #
 website: #
 mastodon: #
 twitter: #
-linkedin: https://www.linkedin.com/in/%20luis-r-alvarez-56a5111a8
+linkedin: luis-r-alvarez-56a5111a8
 bluesky: https://bsky.app/profile/lralvare1.bsky.social
 github: #
 cv: #/static/files/Nussenbaum_CV.pdf
