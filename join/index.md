@@ -27,7 +27,7 @@ The lab is not actively recruiting postdocs at this time. However, if you have s
 
 ----
 ### Ph.D. students
-I will be reviewing Ph.D. applications this cycle (for students hoping to start in September 2026). I will at most be admitting one student to the lab, and am looking for applicants whose research interests align closely with the lab's past and planned work. 
+Kate will be reviewing Ph.D. applications this cycle (for students hoping to start in September 2026). 
 
 Prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program or the ['Developmental Science'](https://www.bu.edu/psych/academics/phd/devscience/) program in the Department of Psychological & Brain Sciences. It is also possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
 
