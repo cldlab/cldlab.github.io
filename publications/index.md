@@ -36,7 +36,7 @@ Nussenbaum, K. & Hartley, C.A. (2024). Meta-learned models as tools to test theo
 
 Nussenbaum, K.\*, Katzman, P.L.\*, Lu, H., Zorowitz, S. & Hartley, C.A. (2024). Sensitivity to the instrumental value of choice increases across development. *Psychological Science.* [pdf.](/static/papers/Nussenbaum_2024_PsychSci.pdf) [data & code.](https://osf.io/69rs8/) 
 
-Nussenbaum, K. & Hartley, C.A. (2024). Understanding the development of reward learning through the lens of meta-learning. *Nature Reviews Psychology.* [link.](https://www.nature.com/articles/s44159-024-00304-1) [contact for pdf.](mailto: katenuss@gmail.com)
+Nussenbaum, K. & Hartley, C.A. (2024). Understanding the development of reward learning through the lens of meta-learning. *Nature Reviews Psychology.* [link.](https://www.nature.com/articles/s44159-024-00304-1) [pdf.](/static/papers/Nussenbaum_2024_NRP.pdf)
 
 ----
 #### 2023
