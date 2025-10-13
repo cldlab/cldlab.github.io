@@ -26,6 +26,7 @@ Nussenbaum, K., Kahn, A.E., Zhang, A., Daw, N.D., & Hartley, C.A. Shifts in lear
 #### 2026
 Zhang, A., Kahn, A.E., Daw, N.D., Nussenbaum, K.\* & Hartley, C.A.\* (2026). Children leverage predictive representations for flexible, value-guided choice. *Cognition.* [pdf.](/static/papers/Zhang_2026_Cognition.pdf)  [data & code.](https://osf.io/g83rp/) 
 
+----
 #### 2025
 Nussenbaum, K. & Hartley, C.A. (2025). Reinforcement learning increasingly relates to memory specificity from childhood to adulthood. *Nature Communications.* [pdf.](/static/papers/Nussenbaum_2025_NatComms.pdf) [data & code.](https://osf.io/8yjvr/) 
 
