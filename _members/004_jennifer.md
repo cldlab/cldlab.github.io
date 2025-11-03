@@ -4,7 +4,7 @@ startdate: 2025-11-03
 enddate:
 image: /static/img/members/jennifer.jpg #365 x 365 pixels, 72 dpi, JPG
 altimage: /static/img/members/jennifer.jpg #365 x 365 pixels, 72 dpi, JPG
-position: undergraduate research assistant
+position: Undergraduate research assistant
 subsequent:
 pronouns: 
 email:  zhixinf@bu.edu
