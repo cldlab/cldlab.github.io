@@ -5,4 +5,4 @@ author: Ipek Obek
 layout: post
 group: news
 ---
-Irene joins the lab as our new undergraduate research assisant! 
+Irene joins the lab as our new undergraduate research assistant! 
