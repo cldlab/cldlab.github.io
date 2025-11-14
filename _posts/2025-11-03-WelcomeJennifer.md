@@ -1,6 +1,6 @@
 ---
 published: True
-title: Welcome Jennifer! 
+title: Welcome, Jennifer! 
 author: Ipek Obek
 layout: post
 group: news

@@ -16,7 +16,6 @@ group: publications
 
 Nussenbaum, K., Kahn, A.E., Zhang, A., Daw, N.D., & Hartley, C.A. Shifts in learning dynamics drive developmental improvements in the acquisition of structured knowledge. [preprint.](https://osf.io/preprints/psyarxiv/amvth_v1) [data & code.](https://osf.io/6zwe2/)
 
-
 <br>
 
 ----

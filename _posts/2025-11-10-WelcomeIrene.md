@@ -1,6 +1,6 @@
 ---
 published: True
-title: Welcome Irene!
+title: Welcome, Irene!
 author: Ipek Obek
 layout: post
 group: news

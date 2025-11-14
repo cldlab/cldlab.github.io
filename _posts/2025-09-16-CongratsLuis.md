@@ -1,6 +1,6 @@
 ---
 published: True
-title: Congrats Luis! 
+title: Congrats, Luis! 
 author: Ipek Obek
 layout: post
 group: news
