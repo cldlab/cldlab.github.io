@@ -1,3 +1,23 @@
+.news-image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.news-image-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+/* Stack nicely on small screens */
+@media (max-width: 768px) {
+  .news-image-grid {
+    grid-template-columns: 1fr;
+  }
+}
 
 @media (min-width: 992px) {
    .collapse {
