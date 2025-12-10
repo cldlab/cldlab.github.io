@@ -1,8 +1,7 @@
 .news-image-grid {
-  display: grid;
+  display: grid !important;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.75rem;
-  margin-top: 0.75rem;
 }
 
 .news-image-grid img {
@@ -16,6 +15,27 @@
 @media (max-width: 768px) {
   .news-image-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+.news-image-row {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.news-image-row img {
+  flex: 1 1 0;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+/* Optional: stack on very small screens */
+@media (max-width: 600px) {
+  .news-image-row {
+    flex-direction: column;
   }
 }
 
