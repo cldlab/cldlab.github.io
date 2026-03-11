@@ -14,7 +14,7 @@ group: publications
 ## Preprints
 ----
 
-Nussenbaum, K., Kahn, A.E., Zhang, A., Daw, N.D., & Hartley, C.A. Developmental change in structure learning reflects a shift from recency-based to relational prediction. [preprint.](https://osf.io/preprints/psyarxiv/amvth_v1) [data & code.](https://osf.io/6zwe2/)
+Nussenbaum, K., Kahn, A.E., Zhang, A., Daw, N.D., & Hartley, C.A. Developmental change in structure learning reflects a shift from recency-based to relational prediction. [preprint.](https://osf.io/preprints/psyarxiv/amvth_v3) [data & code.](https://osf.io/6zwe2/)
 
 <br>
 
