@@ -29,10 +29,14 @@
 - name: join
   link: "/join"
   group: join
+  
+- name: participate
+  link: "https://spark.bucoldlab.org"
+  group: participate
 
-- name: philosophy
-  link: "/compact"
-  group: compact
+#- name: philosophy
+#  link: "/compact"
+#  group: compact
 
 - name: contact
   link: "/contact"
