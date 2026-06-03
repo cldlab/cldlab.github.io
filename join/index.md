@@ -32,6 +32,13 @@ Research in the lab is both developmental and computational. Because of this, st
 <br>
 
 ----
+### Post-bacc RAs / Lab managers
+
+We do not currently have any openings for full-time postbacc research assistants.
+
+<br>
+
+----
 
 <br> 
 
