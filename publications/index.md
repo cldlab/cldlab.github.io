@@ -13,7 +13,7 @@ group: publications
 ----
 
 #### 2026
-Nussenbaum, K., Kahn, A.E., Zhang, A., Daw, N.D., & Hartley, C.A. Developmental change in structure learning reflects a shift from recency-based to relational prediction. [pdf.](/static/papers/Nussenbaum_2026_DevSci.pdf) [data & code.](https://osf.io/6zwe2/)
+Nussenbaum, K., Kahn, A.E., Zhang, A., Daw, N.D., & Hartley, C.A. (2026). Developmental change in structure learning reflects a shift from recency-based to relational prediction. *Developmental Science.* [pdf.](/static/papers/Nussenbaum_2026_DevSci.pdf) [data & code.](https://osf.io/6zwe2/)
 
 Zhang, A., Kahn, A.E., Daw, N.D., Nussenbaum, K.\* & Hartley, C.A.\* (2026). Children leverage predictive representations for flexible, value-guided choice. *Cognition.* [pdf.](/static/papers/Zhang_2026_Cognition.pdf)  [data & code.](https://osf.io/g83rp/) 
 
