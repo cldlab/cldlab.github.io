@@ -17,16 +17,16 @@ BU's Center for Systems Neuroscience sponsors [two-year fellowships](https://www
 
 ----
 ### Ph.D. students
-The 2025 - 2026 admissions cycle has now concluded. Kate *may* review applications in the next cycle, for students hoping to start in September 2027, though will at most be admitting one student to join the lab.
+Kate will likely *not* be admitting students during the 2026 - 2027 cycle, to begin in fall 2027. 
 
-Prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program or the ['Developmental Science'](https://www.bu.edu/psych/academics/phd/devscience/) program in the Department of Psychological & Brain Sciences. It is also possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
+In future years, prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program or the ['Developmental Science'](https://www.bu.edu/psych/academics/phd/devscience/) program in the Department of Psychological & Brain Sciences. It is also possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
 
 Competitive applicants to the lab will have:
 * experience working in a psychology or neuroscience research lab.
 * intrinsic motivation, ambition, creativity, and persistence in tackling difficult intellectual challenges.
 * a strong interest in developmental cognitive neuroscience / developmental computational cognitive science, with particular excitement for the lab’s core questions about the development of adaptive learning, memory, and exploration processes (see [research](/research) and [publications](/publications)).
 
-In general, research in the lab is both developmental and computational. Because of this, students will be expected to have an interest in some aspect of development and a desire to learn computational methods (e.g., developing and fitting cognitive models; analyzing neuroimaging data). However, the Ph.D. is an opportune time for learning. You do not need to have any specific computational modeling skills (though competitive applicants will have working fluency in at least one programming language) and you do not need to have experience conducting developmental research to be a competitive applicant to the lab. 
+Research in the lab is both developmental and computational. Because of this, students will be expected to have an interest in some aspect of development and a desire to learn computational methods (e.g., developing and fitting cognitive models; analyzing neuroimaging data). However, the Ph.D. is an opportune time for learning. You do not need to have any specific computational modeling skills (beyond working fluency in at least one programming language) and you do not need to have experience conducting developmental research to be a competitive applicant to the lab. 
 
  
 <br>
