@@ -12,7 +12,7 @@ group: publications
 ## Preprints
 ----
 
-Nussenbaum, K.\*, Hamling, H.\*, Zhu, H., Kerbl, L., Washington, L., \& Hartley, C.A. Heightened adaptability to environmental volatility in adolescence. [preprint.](https://osf.io/preprints/psyarxiv/4kyxp_v1) [data & code.](https://osf.io/7vbnd/overview)
+Nussenbaum, K.\*, Hamling, H.\*, Zhu, H., Kerbl, L., Washington, L., & Hartley, C.A. Heightened adaptability to environmental volatility in adolescence. [preprint.](https://osf.io/preprints/psyarxiv/4kyxp_v1) [data & code.](https://osf.io/7vbnd/overview)
 
 ----
 ## Journal Articles
