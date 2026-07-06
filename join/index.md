@@ -17,7 +17,7 @@ BU's Center for Systems Neuroscience sponsors [two-year fellowships](https://www
 
 ----
 ### Ph.D. students
-Kate will likely *not* be admitting students during the 2026 - 2027 cycle, to begin in fall 2027. 
+Kate will likely *not* be admitting students during the 2026 - 2027 cycle, to begin in fall 2027. But please reach out if you think your interests are exceptionally well-aligned with the lab.
 
 In future years, prospective students can apply to join the lab through the ['Brain, Behavior, and Cognition'](https://www.bu.edu/psych/academics/phd/bbc/) program or the ['Developmental Science'](https://www.bu.edu/psych/academics/phd/devscience/) program in the Department of Psychological & Brain Sciences. It is also possible for students to join the lab through the University-wide ['Graduate Program in Neuroscience'](https://www.bu.edu/neuro/academics/graduate/), though this program begins with a year of rotations. You can find more information about applying [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/) and information about application fee waivers [here](https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/).
 
