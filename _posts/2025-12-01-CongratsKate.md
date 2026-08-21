@@ -1,11 +1,11 @@
 ---
 published: True
-title: Congrats, Kate! 
+title: Kate awarded Jacobs CIFAR Research Fellowship 
 author: Ipek Obek
 layout: post
 group: news
 ---
-Congratulations to Dr. Kate Nussenbaum, who has been awarded a Jacobs CIFAR Research Fellowship! 
+Congratulations to Kate, who has been awarded a Jacobs CIFAR Research Fellowship! 
 
-This prestigious fellowship supports innovative research on learning and development. Learn more about the program here: [Jacobs Foundation Research Fellows](https://jacobsfoundation.org/fellowships/jacobs-foundation-research-fellows-2/)
+This early-career research fellowship supports work on learning variability and child development more broadly. Learn more about the program here: [Jacobs Foundation Research Fellows].(https://jacobsfoundation.org/fellowships/jacobs-foundation-research-fellows-2/)
 
