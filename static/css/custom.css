@@ -136,15 +136,16 @@ body {
 
 .news-image-grid {
   display: grid !important;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
   gap: 0.75rem;
 }
 
 .news-image-grid img {
   width: 100%;
-  height: auto;
+  height: 320px;
   border-radius: 6px;
   object-fit: cover;
+  object-position: center;
 }
 
 .news-image-grid > p {
