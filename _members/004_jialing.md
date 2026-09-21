@@ -6,8 +6,8 @@ image: /static/img/members/jialing.jpg #365 x 365 pixels, 72 dpi, JPG
 altimage: /static/img/members/jialing.jpg #365 x 365 pixels, 72 dpi, JPG
 position: PhD Student 
 subsequent:
-pronouns: 
-email:  
+pronouns: she/her
+email:  jialing@bu.edu
 scholar: #
 website: #
 mastodon: #
