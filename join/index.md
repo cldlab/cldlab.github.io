@@ -9,7 +9,7 @@ group: join
 ----
 
 ### Postdoctoral researchers
-If you have shared research interests and would like to discuss a potential position, please email [Kate](mailto:katenuss@bu.edu) to discuss opportunities. 
+If you have shared research interests and would like to discuss a potential position, please email [Kate](mailto:katenuss@bu.edu) to discuss opportunities. The lab is always on the lookout for strong postdoctoral candidates.
 
 BU's Center for Systems Neuroscience sponsors [two-year fellowships](https://www.bu.edu/csn/opportunities/postdocs/apply/) that potential postdocs can apply for, with the deadline typically in late January each year. Please reach out to Kate if you are interested in applying.
 
@@ -34,7 +34,7 @@ Research in the lab is both developmental and computational. Because of this, st
 ----
 ### Post-bacc RAs / Lab managers
 
-We do not currently have any openings for full-time postbacc research assistants.
+We do not currently have any openings for full-time postbacc research assistants and do not anticipate having any in the near future. 
 
 <br>
 
@@ -43,6 +43,8 @@ We do not currently have any openings for full-time postbacc research assistants
 <br> 
 
 ### BU undergraduates and MA students
+*Please note: We have filled all of our undergraduate RA slots for Fall 2026 (and likely for Spring 2027). Please check back next fall for additional openings.*
+
 The lab often has opportunities for BU undergraduates (and potentially for MA students), either as volunteers, paid RAs (if eligible for work-study), and directed study or [UROP](https://www.bu.edu/urop/) students.
 
 If you are a current student at BU interested in joining the lab, please fill out our [interest form](https://forms.gle/C8bUBZkPjhorWb3P9). Once you fill out the form, you can expect to hear from us within a few weeks about whether or not we have a potential opening. Please fill out the form thoughtfully -- while we do not expect undergraduates to have research experience, we do expect that students have made themselves familiar with some of our past [publications](/publications) and have a genuine interest in the specific research we do. 
@@ -56,7 +58,7 @@ Unfortunately, the lab does not have any openings for non-BU students.
 <br> 
 
 ### High school students
-Unfortunately, the lab does not have the capacity to train high school students, and we do not accept high school volunteers. If you email Kate, she will tell you this same thing.
+Unfortunately, the lab does not have the capacity to train high school students, and we do not accept high school volunteers. Kate cannot mentor individual high-school research projects. If you email Kate, she will tell you this same thing. 
 
 
 ----
