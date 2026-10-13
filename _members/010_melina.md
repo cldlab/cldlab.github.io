@@ -2,8 +2,8 @@
 name: Melina Di Garbo
 startdate: 2026-04-01
 enddate:
-image: /static/img/members/melina.jpeg #365 x 365 pixels, 72 dpi, JPG
-altimage: /static/img/members/melina.jpeg #365 x 365 pixels, 72 dpi, JPG
+image: /static/img/members/melina.jpg #365 x 365 pixels, 72 dpi, JPG
+altimage: /static/img/members/melina.jpg #365 x 365 pixels, 72 dpi, JPG
 position: Undergraduate research assistant
 subsequent:
 pronouns: 
